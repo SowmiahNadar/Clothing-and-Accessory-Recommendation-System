@@ -12,3 +12,22 @@ A clothing and accessory recommendation system can help users discover new items
 - scikit-learn - Scikit-learn is a free software machine learning library for the Python programming language.
 - opencv-python - OpenCV is a huge open-source library for computer vision, machine learning, and image processing.
 
+
+## Dataset 
+dataset text file has its link where its directed towards kaggle
+
+## Installation
+
+Use pip to install the requirements.
+
+--bash
+pip install -r requirements.txt
+
+
+## Usage
+
+To run the web server, simply execute streamlit with the main recommender app:
+
+--bash
+streamlit run main.py
+
