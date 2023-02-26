@@ -23,7 +23,8 @@ Use pip to install the requirements.
 --bash
 pip install -r requirements.txt
 
-
+##Deployment --Streamlit
+Streamlit provides an intuitive way to build custom web applications without requiring extensive knowledge of web development or front-end programming. With Streamlit, you can create a variety of data-driven applications, such as dashboards, data exploration tools, and machine learning models, among others.
 ## Usage
 
 To run the web server, simply execute streamlit with the main recommender app:
