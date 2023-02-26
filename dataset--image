@@ -1,0 +1,6 @@
+
+Image Dataset: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset 
+
+Dataset --> This dataset is Fashion Product Images Dataset which we are using for clothing and accessory recommender system.
+It has 44k products with multiple category labels, descriptions and high-res images.
+The dataset must be downloaded priorly because it's of 25 GB.
