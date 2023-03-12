@@ -1,4 +1,4 @@
-# Clothing-and-Accessory-Recommendation-System
+# Clothing-and-Accessory-Recommendation-System(with Deep Learning)
 A clothing and accessory recommendation system can help users discover new items that match their personal style and preferences according to the image uploaded by the users. This project presents a clothing and accessory recommendation system that utilizes Convolutional Neural Network and Nearest Neighbour algorithm. The system trains neural networks and creates a database of the inventory items. It then uses the nearest neighbour algorithm to find the most relevant products based on the input image, generating recommendations for users. 
 
 
